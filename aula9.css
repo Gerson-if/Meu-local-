@@ -1,0 +1,65 @@
+#wrap{
+	width:960px;
+	margin: auto;
+	background:snow;
+	padding: auto;
+}
+body h1{
+	font-family:impact,fantasy;
+	font-size: 80px;
+	color: orange;
+	padding:10px;
+}
+body nav ul li{
+	margin-right: 100px;
+	list-style: none;
+	display: inline-block;
+}
+body nav ul{
+	padding:10px;
+	width: auto;
+	height:20px;
+	background: beige;
+}
+body nav ul li a{
+	text-decoration: none;
+	color: white;
+}
+body header{
+	background:seagreen;
+}
+#content{
+	width: 660px;
+	background: violet;
+	float: left;
+}
+#sidebar{
+	width:300px;
+	background: green;
+	float: right;
+}
+#content ul li{
+	color:black;
+	text-decoration: none;
+}
+footer{
+	width: 640px;
+	padding:10px;
+	background: orange;
+	clear: both;
+}
+body nav ul li a:hover{
+	text-decoration: underline;
+}
+body article ul li{
+	list-style: none;
+	color: beige;
+}
+body nav{
+	height:100px;
+	l
+
+}
+header{
+	height:180px;
+}
