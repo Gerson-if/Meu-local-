@@ -1,0 +1,65 @@
+# embrulha {
+	largura : 960px ; _
+	margem : automático;
+	fundo : neve;
+	preenchimento : automático;
+}
+corpo  h1 {
+	font-family : impacto , fantasia;
+	tamanho da fonte :  80 px ;
+	cor : laranja;
+	preenchimento : 10px ; _
+}
+body  nav  ul  li {
+	margem direita :  100 px ;
+	estilo de lista : nenhum;
+	exibição : bloco em linha;
+}
+ navegação  corporal { _
+	preenchimento : 10px ; _
+	largura : automático;
+	altura : 20px ; _
+	fundo : bege;
+}
+body  nav  ul  li  a {
+	decoração de texto : nenhuma;
+	cor : branco;
+}
+ cabeçalho do corpo {
+	fundo : verde-mar;
+}
+# conteúdo {
+	largura :  660px ; _
+	fundo : violeta;
+	flutuar : esquerda;
+}
+# barra lateral {
+	largura : 300px ; _
+	fundo : verde;
+	flutuar : direito;
+}
+# conteúdo  ul  li {
+	cor : preto;
+	decoração de texto : nenhuma;
+}
+rodapé {
+	largura :  640px ; _
+	preenchimento : 10px ; _
+	fundo : laranja;
+	claro : ambos;
+}
+body  nav  ul  li  a : hover {
+	decoração de texto : sublinhado;
+}
+ artigo  do corpo ul  li {
+	estilo de lista : nenhum;
+	cor : bege;
+}
+ navegação corporal {
+	altura : 100px ; _
+	eu
+
+}
+cabeçalho {
+	altura : 180px ; _
+}
